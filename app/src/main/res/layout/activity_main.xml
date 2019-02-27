@@ -58,7 +58,7 @@
         android:layout_marginBottom="8dp"
         android:background="#FFF000"
         android:gravity="clip_horizontal|center|clip_vertical|center_vertical"
-        android:text="0"
+        android:text="@string/count_initial_value"
         android:textAllCaps="false"
         android:textColor="@color/colorPrimary"
         android:textSize="160sp"
